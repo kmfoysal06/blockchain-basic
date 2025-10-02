@@ -2,6 +2,8 @@
 
 A simple and educational blockchain implementation in Python to understand the core concepts of blockchain technology.
 
+> **🚀 Want to get started quickly?** Check out [QUICKSTART.md](QUICKSTART.md) for a 2-minute guide!
+
 ## 📋 Overview
 
 This project implements a basic blockchain with the following features:
